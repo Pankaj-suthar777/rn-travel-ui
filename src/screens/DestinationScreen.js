@@ -1,0 +1,12 @@
+import { View, Text } from "react-native";
+import React from "react";
+
+const DestinationScreen = () => {
+  return (
+    <View>
+      <Text>DestinationScreen</Text>
+    </View>
+  );
+};
+
+export default DestinationScreen;
